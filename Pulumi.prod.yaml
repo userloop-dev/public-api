@@ -3,5 +3,11 @@ config:
   public-api:dns-zone: events.userloop.dev
   public-api:domain: events.userloop.dev
   public-api:stage: prod
+  public-api:stream-arn:
+    secure: AAABADBWbw5+kq5u7M7TAf5wlclhzdBBGycJjBBrT8+Gcr0ehwzWtX2c/mLzRKvtbwbzsjh45P2GIx94vJjbV2brwsFG/EOWDu6NKqVOoMJPLOqToRnApqzN6UVvXnMZsHgfSfleMDDoN+QBNpeYPKepDudzr8mprBFy
+  public-api:stream-name:
+    secure: AAABAM6JcagNmr6pLao3sqtiFvGlaM5m4XOCfF3ii2MUia+53CnJtFsQkuyZItE+OFwaYaKz7HBKl2ggX/5lVTqSBJA=
   public-api:stripe-secret-key:
     secure: AAABAPy/A3pAiiVxtOllUDep8XybRAR4/4GRA6wBx+0dcE7GiGpzof+aLw7qd9g2JBogC+tFlIabKAkFl7lfYMBxwZ+V5kRW6yCpRf+7SV7Rbn2LemQ3mUAWAHS2su3Yw7r8N4IteLuIn0tYg9j/wQZYPLlRQzCW2Co6wFSrdSIw6K4sVPTfo5Tnxg==
+  public-api:workspace_key_table_id:
+    secure: AAABAIJC0Od5kQ0zzz9jkFGj0BJxZSxUlLfwvAz8QlWkCzLFO7+5JWb3VDsjYTXRyYCGLbWXgL2Ziy4Slr6oMO42/YQGLDc=
