@@ -1,0 +1,13 @@
+config:
+  aws:region: us-west-2
+  public-api:dns-zone: events.userloop.dev
+  public-api:domain: beta.events.userloop.dev
+  public-api:stage: beta
+  public-api:stream-arn:
+    secure: AAABADo1+get0msAUZs3U5Q8X9iCY78O7F/F5GzLE4pOejFV5WHnTchZiDmywT3lL8aXbDCNFSHIcYDdV2hYzgEr6h3A9Q00lRSvsQT/5VYxhHHOP1dCefAHVn8QvUbIRLtL5A6BW98chYxbC3LnoWN8cNFj97WR6SxZ
+  public-api:stream-name:
+    secure: AAABAD/Xlx51XOSRnIrXotQ0wwPCc8y2SYrd7St6nSPv1LL3L82+FCT846+soQ/nutpRYn1J0FyD+BK4VdjzDaBiRIw=
+  public-api:stripe-secret-key:
+    secure: AAABAC3TWLn/nB0SEdp0lSQbLqmn5sEIz6f80NQp/FQ4wJ1uYZArF3sIkBIsPq3muYmwqCYftYECCZmIK1AEAhmeBXE0m3G8s3FHk5+dgRuhqcrbhFtk2/bVvLzVCr2/4Wwmuu5KoFpmj6iBfubuhn711gD+MLgSazE7jlACT9+h742W8OcNqt5SbA==
+  public-api:workspace_key_table_id:
+    secure: AAABAIGY5X8SW9Yej+8H7/Zv6Aq95AueXWOKoLvdSdP48+Jnky5kOorSObqlgx0QUOd93HHVCsaxoXDwPgdQWMCBTYO8WkM=

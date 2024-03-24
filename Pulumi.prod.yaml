@@ -1,0 +1,7 @@
+config:
+  aws:region: us-west-2
+  public-api:dns-zone: events.userloop.dev
+  public-api:domain: events.userloop.dev
+  public-api:stage: prod
+  public-api:stripe-secret-key:
+    secure: AAABAPy/A3pAiiVxtOllUDep8XybRAR4/4GRA6wBx+0dcE7GiGpzof+aLw7qd9g2JBogC+tFlIabKAkFl7lfYMBxwZ+V5kRW6yCpRf+7SV7Rbn2LemQ3mUAWAHS2su3Yw7r8N4IteLuIn0tYg9j/wQZYPLlRQzCW2Co6wFSrdSIw6K4sVPTfo5Tnxg==
